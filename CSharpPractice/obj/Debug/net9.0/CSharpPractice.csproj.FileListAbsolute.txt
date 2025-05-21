@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CSharpPractice\bin\Debug\net9.0\CSharpPractice.exe
+D:\C_sharp_Practice\CSharpPractice\bin\Debug\net9.0\CSharpPractice.deps.json
+D:\C_sharp_Practice\CSharpPractice\bin\Debug\net9.0\CSharpPractice.runtimeconfig.json
+D:\C_sharp_Practice\CSharpPractice\bin\Debug\net9.0\CSharpPractice.dll
+D:\C_sharp_Practice\CSharpPractice\bin\Debug\net9.0\CSharpPractice.pdb
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\CSharpPractice.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\CSharpPractice.AssemblyInfo.cs
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\CSharpPractice.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\CSharpPractice.sourcelink.json
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\CSharpPractice.dll
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\refint\CSharpPractice.dll
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\CSharpPractice.pdb
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\CSharpPractice.genruntimeconfig.cache
+D:\C_sharp_Practice\CSharpPractice\obj\Debug\net9.0\ref\CSharpPractice.dll
