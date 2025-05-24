@@ -53,7 +53,7 @@ foreach (string code in Arr)
 
 Console.WriteLine("Random order Numbers");
 
-
+/*
 Random random = new Random();
 string[] orderIDs = new string[5];
 
@@ -70,3 +70,22 @@ foreach (string orderID in orderIDs)
 {
     Console.WriteLine(orderID);
 }
+*/
+
+Console.WriteLine("Count a letter");
+
+string originalMessage = "The quick brown fox jumps over the lazy dog.";
+
+char[] massage = originalMessage.ToCharArray();
+
+int letterCount = 0;
+
+foreach (char c in massage)
+{
+    if (c == 'o')
+    {
+        letterCount++;
+    }
+}
+
+Console.WriteLine("Count of 'o' is: " + letterCount);
