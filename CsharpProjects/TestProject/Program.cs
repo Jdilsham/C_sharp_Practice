@@ -72,6 +72,7 @@ foreach (string orderID in orderIDs)
 }
 */
 
+/*
 Console.WriteLine("Count a letter");
 
 string originalMessage = "The quick brown fox jumps over the lazy dog.";
@@ -89,3 +90,6 @@ foreach (char c in massage)
 }
 
 Console.WriteLine("Count of 'o' is: " + letterCount);
+*/
+
+
