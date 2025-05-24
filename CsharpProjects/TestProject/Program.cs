@@ -30,7 +30,43 @@ Console.Write(" " + Names[2]);
 */
 
 
-string[] arr = [ "Janitha", "Dilsham" ];
-Console.WriteLine(arr[0]);
+/*string[] arr = [ "Janitha", "Dilsham", "Wanni", "Arachchi" ];
+//Console.WriteLine(arr[0]);
+
+foreach (string name in arr)
+{ 
+    Console.WriteLine(name);
+}
+*/
+
+/*
+string[] Arr = ["B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"];
+foreach (string code in Arr)
+{
+    if (code.StartsWith("B"))
+    { 
+        Console.WriteLine("" + code);
+    }
+}
+*/
 
 
+Console.WriteLine("Random order Numbers");
+
+
+Random random = new Random();
+string[] orderIDs = new string[5];
+
+for (int i = 0; i < orderIDs.Length; i++)
+{
+    int prefixValue = random.Next(65, 70);
+    string prefix = Convert.ToChar(prefixValue).ToString();
+    string suffix = random.Next(1, 1000).ToString("000");
+
+    orderIDs[i] = prefix + suffix;
+}
+
+foreach (string orderID in orderIDs)
+{
+    Console.WriteLine(orderID);
+}
