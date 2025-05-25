@@ -236,4 +236,6 @@ foreach (var pallet in pallets)
 */
 
 
+Console.WriteLine("hi");
+
 
