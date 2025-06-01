@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 //1************************************************************
 
@@ -170,7 +171,7 @@ Console.ReadLine();
 
 
 //6************************************************************
-
+/*
 Console.WriteLine("Enter 5 Numbers: ");
 
 List<int> numbers = new List<int>(5);
@@ -204,3 +205,30 @@ while (numbers.Count < 5)
 
 numbers.Sort();
 Console.WriteLine("Sorted Numbers: " + string.Join(", ", numbers));
+*/
+
+
+
+List<int> list = new List<int>();
+string input;
+Console.WriteLine("Enter integer one by one, Type 'Quit' to exit.");
+while (true)
+{
+    input = Console.ReadLine();
+    if (input.Equals("Quit"))
+    {
+        break;
+    }
+
+    int number = int.Parse(input);
+    if (!list.Contains(number))
+    {
+        list.Add(number);
+    }
+
+}
+
+foreach (int item in list)
+    {
+        Console.WriteLine(item);
+    }
