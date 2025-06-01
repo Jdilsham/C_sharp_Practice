@@ -173,9 +173,34 @@ Console.ReadLine();
 
 Console.WriteLine("Enter 5 Numbers: ");
 
-List<int> numbers = new List<int>();
+List<int> numbers = new List<int>(5);
 
 while (numbers.Count < 5)
 {
     Console.Write($"Enter Number {numbers.Count + 1}: ");
+
+    string input = Console.ReadLine();
+    int num;
+    try
+    {
+        num = Convert.ToInt32(input);
+    }
+    catch
+    {
+        Console.WriteLine("Please enter valid number.");
+        continue;
+    }
+
+    if (numbers.Contains(num))
+    {
+        Console.WriteLine("Number is already enterd, enter anothor number");
+    }
+    else
+    {
+        numbers.Add(num);
+    }
+
 }
+
+numbers.Sort();
+Console.WriteLine("Sorted Numbers: " + string.Join(", ", numbers));
