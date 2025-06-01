@@ -207,8 +207,8 @@ numbers.Sort();
 Console.WriteLine("Sorted Numbers: " + string.Join(", ", numbers));
 */
 
-
-
+//7*****************************************************************
+/*
 List<int> list = new List<int>();
 string input;
 Console.WriteLine("Enter integer one by one, Type 'Quit' to exit.");
@@ -232,3 +232,42 @@ foreach (int item in list)
     {
         Console.WriteLine(item);
     }
+*/
+
+
+Console.WriteLine("Enter Numbers separated by comma: ");
+string input = Console.ReadLine();
+
+while (true)
+{
+    if (input == null || input.Trim() == "")
+    {
+        Console.WriteLine("Invalid, Try again");
+        continue;
+    }
+
+    string[] parts = input.Split(',');
+    if (parts.Length < 5)
+    {
+        Console.WriteLine("Invalid, Try again");
+    }
+
+    List<int> numbers = new List<int>();
+    bool valid = true;
+
+    foreach (string part in parts)
+    {
+        try
+        {
+            int number = int.Parse(part.Trim());
+            numbers.Add(number);
+        }
+        catch (System.Exception)
+        {
+
+            valid = false;
+            break;
+        }
+    }
+}
+
