@@ -18,8 +18,18 @@ public class Program
         //Console.WriteLine(cal.add(2, 3, 4));
 
 
-        Dogs dogs = new Dogs();
-        dogs.eat();
+        //Dogs dogs = new Dogs();
+        //dogs.eat();
+
+        Shape s;
+        s = new Shape();
+        s.draw();
+
+        s = new Rectangle();
+        s.draw();
+
+        s = new Circle();
+        s.draw();
 
     }
 }
@@ -82,5 +92,30 @@ public class Dogs : Animals
     public override void eat()
     {
         Console.WriteLine("Eating Bread...");
+    }
+}
+
+
+public class Shape
+{
+    public virtual void draw()
+    {
+        Console.WriteLine("Drawing...");
+    }
+}
+
+public class Rectangle : Shape
+{
+    public override void draw()
+    {
+        Console.WriteLine("Drawing Rectangle...");
+    }
+}
+
+public class Circle : Shape
+{
+    public override void draw()
+    {
+        Console.WriteLine("Drawing Circle...");
     }
 }
