@@ -1,4 +1,18 @@
-﻿public class BankAccount
+﻿public class progarm
+{
+    public static void Main()
+    {
+        SavingsAccount mysaving = new SavingsAccount("12345", 1000, 2.5);
+        mysaving.Deposite(500);
+        mysaving.Withdraw(200);
+
+        mysaving.ApplyInterest();
+        Console.WriteLine($"Final Balance: {mysaving.Balance:C}");
+        Console.ReadLine();
+    }
+}
+
+public class BankAccount
 {
     public string AccountNumber { get; set; }
     public double Balance { get; set; }
@@ -46,16 +60,3 @@ public class SavingsAccount : BankAccount
     }
 }
 
-public class progarm
-{
-    public static void main()
-    {
-        SavingsAccount mysaving = new SavingsAccount("12345", 1000, 2.5);
-        mysaving.Deposite(500);
-        mysaving.Withdraw(200);
-
-        mysaving.ApplyInterest();
-        Console.WriteLine($"Final Balance: {mysaving.Balance:C}");
-        Console.ReadLine();
-    }
-}
