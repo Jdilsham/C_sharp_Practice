@@ -14,8 +14,12 @@ public class Program
         //dog.eat();
         //dog.bark();
 
-        Console.WriteLine(cal.add(1, 2));
-        Console.WriteLine(cal.add(2, 3, 4));
+        //Console.WriteLine(cal.add(1, 2));
+        //Console.WriteLine(cal.add(2, 3, 4));
+
+
+        Dogs dogs = new Dogs();
+        dogs.eat();
 
     }
 }
@@ -62,5 +66,21 @@ public class cal()
     public static int add(int a, int b, int c)
     {
         return a + b + c;
+    }
+}
+
+public class Animals()
+{
+    public virtual void eat()
+    {
+        Console.WriteLine("Eating...");
+    }
+}
+
+public class Dogs : Animals
+{
+    public override void eat()
+    {
+        Console.WriteLine("Eating Bread...");
     }
 }
