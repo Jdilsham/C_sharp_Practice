@@ -45,3 +45,17 @@ public class SavingsAccount : BankAccount
         Console.WriteLine($"Interest applied at {InterestRate}%. New Balance: {Balance:C}");
     }
 }
+
+public class progarm
+{
+    public static void main()
+    {
+        SavingsAccount mysaving = new SavingsAccount("12345", 1000, 2.5);
+        mysaving.Deposite(500);
+        mysaving.Withdraw(200);
+
+        mysaving.ApplyInterest();
+        Console.WriteLine($"Final Balance: {mysaving.Balance:C}");
+        Console.ReadLine();
+    }
+}
