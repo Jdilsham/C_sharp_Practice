@@ -10,9 +10,12 @@ public class Program
         //float totalSalary = p1.salary + p1.bonus;
         //Console.WriteLine("Total Salary: " + totalSalary);
 
-        Dog dog = new Dog();
-        dog.eat();
-        dog.bark();
+        //Dog dog = new Dog();
+        //dog.eat();
+        //dog.bark();
+
+        Console.WriteLine(cal.add(1, 2));
+        Console.WriteLine(cal.add(2, 3, 4));
 
     }
 }
@@ -46,5 +49,18 @@ public class Dog : Animal
     public void bark()
     {
         Console.WriteLine("Barking...");
+    }
+}
+
+public class cal()
+{
+    public static int add(int a, int b)
+    {
+        return a + b;
+    }
+
+    public static int add(int a, int b, int c)
+    {
+        return a + b + c;
     }
 }
