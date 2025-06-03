@@ -21,7 +21,7 @@ public class Program
         //Dogs dogs = new Dogs();
         //dogs.eat();
 
-        Shape s;
+        /*Shape s;
         s = new Shape();
         s.draw();
 
@@ -30,6 +30,8 @@ public class Program
 
         s = new Circle();
         s.draw();
+        */
+
 
     }
 }
@@ -66,7 +68,7 @@ public class Dog : Animal
     }
 }
 
-public class cal()
+public class Cal()
 {
     public static int add(int a, int b)
     {
@@ -119,3 +121,4 @@ public class Circle : Shape
         Console.WriteLine("Drawing Circle...");
     }
 }
+
