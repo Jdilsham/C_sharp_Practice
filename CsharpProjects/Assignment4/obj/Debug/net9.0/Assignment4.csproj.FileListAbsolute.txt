@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\Assignment4\bin\Debug\net9.0\Assignment4.exe
+D:\C_sharp_Practice\CsharpProjects\Assignment4\bin\Debug\net9.0\Assignment4.deps.json
+D:\C_sharp_Practice\CsharpProjects\Assignment4\bin\Debug\net9.0\Assignment4.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\Assignment4\bin\Debug\net9.0\Assignment4.dll
+D:\C_sharp_Practice\CsharpProjects\Assignment4\bin\Debug\net9.0\Assignment4.pdb
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\Assignment4.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\Assignment4.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\Assignment4.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\Assignment4.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\Assignment4.dll
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\refint\Assignment4.dll
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\Assignment4.pdb
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\Assignment4.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\Assignment4\obj\Debug\net9.0\ref\Assignment4.dll
