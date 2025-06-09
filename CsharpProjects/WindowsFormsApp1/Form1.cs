@@ -42,5 +42,10 @@ namespace WindowsFormsApp1
             }
             label1.Text = "Total Bill  = " + total.ToString();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
