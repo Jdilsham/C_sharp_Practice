@@ -10,3 +10,4 @@ D:\C_sharp_Practice\CsharpProjects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.e
 D:\C_sharp_Practice\CsharpProjects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\C_sharp_Practice\CsharpProjects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
 D:\C_sharp_Practice\CsharpProjects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Selection.resources
+D:\C_sharp_Practice\CsharpProjects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.timeTable.resources
