@@ -10,8 +10,12 @@ namespace SingletonDemo
     {
         static void Main(string[] args)
         {
-            Singleton s1 = new Singleton();
-            s1.PrintDetails("This is First Message");
+            Singleton fromEmployee = Singleton.GetInstance;
+            fromEmployee.PrintDetails("From Employee");
+
+            Singleton fromStudent = Singleton.GetInstance;
+            fromStudent.PrintDetails("From Student");
+            Console.ReadLine();
         }
     }
 }

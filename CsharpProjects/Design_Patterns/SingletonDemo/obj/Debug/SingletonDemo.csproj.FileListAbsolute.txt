@@ -5,3 +5,11 @@ D:\C_sharp_Practice\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.csproj
 D:\C_sharp_Practice\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.csproj.CoreCompileInputs.cache
 D:\C_sharp_Practice\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.exe
 D:\C_sharp_Practice\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.pdb
+D:\C_sharp_Practice\CsharpProjects\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.csproj.AssemblyReference.cache
+D:\C_sharp_Practice\CsharpProjects\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.exe.config
+D:\C_sharp_Practice\CsharpProjects\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.exe
+D:\C_sharp_Practice\CsharpProjects\Design_Patterns\SingletonDemo\obj\Debug\SingletonDemo.pdb
+D:\C_sharp_Practice\CsharpProjects\Design_Patterns\SingletonDemo\bin\Debug\SingletonDemo.exe.config
+D:\C_sharp_Practice\CsharpProjects\Design_Patterns\SingletonDemo\bin\Debug\SingletonDemo.exe
+D:\C_sharp_Practice\CsharpProjects\Design_Patterns\SingletonDemo\bin\Debug\SingletonDemo.pdb
