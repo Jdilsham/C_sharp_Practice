@@ -1,0 +1,7 @@
+D:\C_sharp_Practice\Design_Patterns\StaticDemo\bin\Debug\StaticDemo.exe.config
+D:\C_sharp_Practice\Design_Patterns\StaticDemo\bin\Debug\StaticDemo.exe
+D:\C_sharp_Practice\Design_Patterns\StaticDemo\bin\Debug\StaticDemo.pdb
+D:\C_sharp_Practice\Design_Patterns\StaticDemo\obj\Debug\StaticDemo.csproj.AssemblyReference.cache
+D:\C_sharp_Practice\Design_Patterns\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\Design_Patterns\StaticDemo\obj\Debug\StaticDemo.exe
+D:\C_sharp_Practice\Design_Patterns\StaticDemo\obj\Debug\StaticDemo.pdb
