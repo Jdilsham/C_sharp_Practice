@@ -28,29 +28,41 @@ namespace Assignment6
 
         private void add_btn_Click(object sender, EventArgs e)
         {
-            int ID;
-            double GPA;
+         
+
             if (!int.TryParse(id_txt.Text,out _)) {
                 MessageBox.Show("Please enter Integer Value!");
             }
-            else
+
+            if (!double.TryParse(gpa_txt.Text, out _))
             {
-               ID = int.Parse(id_txt.Text);
-            }
-
-            string Name = name_txt.Text;
-            string Course = course_txt.Text;
-
-            if (!double.TryParse(gpa_txt.Text,out _)) {
                 MessageBox.Show("Please Enter valid Double Value!");
             }
-            else
+
+            int ID = int.Parse(id_txt.Text);
+            string Name = name_txt.Text;
+            string Course = course_txt.Text;
+            double GPA = double.Parse(gpa_txt.Text);
+
+            Student student = new Student(ID,Name,Course,GPA);
+            students.Add(student);
+            RefreshList();
+            ClearInputs();
+        }
+
+        private void RefreshList() {
+            listView1.Items.Clear();
+            foreach(Student s in students)
             {
-                GPA = double.Parse(gpa_txt.Text);
+                listView1.Items.Add(s);
             }
+        }
 
-
-
+        private void ClearInputs() {
+            id_txt.Clear();
+            name_txt.Clear();
+            course_txt.Clear();
+            gpa_txt.Clear();
         }
     }
 }
