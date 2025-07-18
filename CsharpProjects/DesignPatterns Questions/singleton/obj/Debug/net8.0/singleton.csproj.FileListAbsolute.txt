@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\bin\Debug\net8.0\singleton.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\bin\Debug\net8.0\singleton.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\bin\Debug\net8.0\singleton.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\bin\Debug\net8.0\singleton.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\bin\Debug\net8.0\singleton.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\singleton.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\singleton.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\singleton.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\singleton.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\singleton.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\refint\singleton.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\singleton.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\singleton.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\singleton\obj\Debug\net8.0\ref\singleton.dll
