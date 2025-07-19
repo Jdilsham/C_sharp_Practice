@@ -10,7 +10,7 @@ namespace factory_pattern
     {
         public static void Main(string[] args)
         {
-
+            D
             Factory f1 = new Factory();
 
             Console.WriteLine("CIRCLE or RECTANGLE or SQUARE ?\n");
