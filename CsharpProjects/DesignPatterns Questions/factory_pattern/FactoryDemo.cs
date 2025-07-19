@@ -9,7 +9,23 @@ namespace factory_pattern
     internal class FactoryDemo
     {
         public static void Main(string[] args) {
-            
+
+            Factory f1 = new Factory();
+
+            Console.WriteLine("CIRCLE or RECTANGLE or SQUARE ?\n");
+            string type = Console.ReadLine();
+
+            Shape shape = Factory.GetShape(type);
+
+            if (shape != null) {
+                shape.draw();
+            }
+            else
+            {
+                Console.WriteLine("Invalid");
+            }
+
+
         }
     }
 }
