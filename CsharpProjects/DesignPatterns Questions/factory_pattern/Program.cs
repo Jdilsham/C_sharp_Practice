@@ -14,7 +14,7 @@ namespace factory_pattern
             Factory f1 = new Factory();
 
             Console.WriteLine("CIRCLE or RECTANGLE or SQUARE ?\n");
-            string type = Console.ReadLine()
+            string type = Console.ReadLine();
 
             Shape shape = f1.GetShape(type);
 
