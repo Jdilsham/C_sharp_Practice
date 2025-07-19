@@ -10,7 +10,8 @@ namespace factory_pattern
     {
         public void draw()
         {
-            Console.WriteLine("drawing a rectangle...");
+            Console.WriteLine("drawing a rectang" +
+                "le...");
         }
     }
 }
