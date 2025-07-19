@@ -8,6 +8,6 @@ namespace factory_pattern
 {
     internal interface Shape
     {
-        void draw();
+        void Draw();
     }
 }

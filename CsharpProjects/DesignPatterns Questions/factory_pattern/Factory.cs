@@ -8,13 +8,14 @@ namespace factory_pattern
 {
     internal class Factory
     {
-        public Shape GetShape(string shapeType) {
+        public Shape GetShape(string shapeType)
+        {
 
             if (string.IsNullOrEmpty(shapeType))
             {
                 return null;
             }
-            if (shapeType.Equals("CIRCLE", StringComparison.OrdinalIgnoreCase){
+            if (shapeType.Equals("CIRCLE", StringComparison.OrdinalIgnoreCase)){
                 return new Circle();
             }
             if (shapeType.Equals("SQUARE", StringComparison.OrdinalIgnoreCase))

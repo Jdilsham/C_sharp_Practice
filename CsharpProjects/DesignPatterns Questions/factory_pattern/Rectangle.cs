@@ -8,7 +8,7 @@ namespace factory_pattern
 {
     internal class Rectangle : Shape
     {
-        public void draw()
+        public void Draw()
         {
             Console.WriteLine("drawing a rectangle...");
         }
