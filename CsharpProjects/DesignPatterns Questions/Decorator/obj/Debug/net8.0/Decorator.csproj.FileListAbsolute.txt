@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\Decorator.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\bin\Debug\net8.0\Decorator.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\bin\Debug\net8.0\Decorator.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\bin\Debug\net8.0\Decorator.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\bin\Debug\net8.0\Decorator.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\Decorator.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\Decorator.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Decorator\obj\Debug\net8.0\ref\Decorator.dll
