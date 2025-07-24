@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Decorator2
 {
-    internal class ShapeDecorator
+    public abstract class ShapeDecorator : Shape
     {
+        protected Shape shape;
+
+        public ShapeDecorator(Shape shape)
+        {
+            this.shape = shape;
+        }
+
+        public virtual void Draw()
+        {
+            shape.Draw();
+        }
     }
 }
