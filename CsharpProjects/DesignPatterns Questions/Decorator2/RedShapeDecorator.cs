@@ -13,6 +13,7 @@ namespace Decorator2
         public override void Draw()
         {
             shape.Draw();
+            SetRedBorder();
         }
         
         public void SetRedBorder()
