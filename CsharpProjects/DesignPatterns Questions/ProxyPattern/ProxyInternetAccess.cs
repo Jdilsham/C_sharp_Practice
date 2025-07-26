@@ -16,5 +16,17 @@ namespace ProxyPattern
             realInternetAccess = new RealInternetAccess();
             restrictedSites = new List<string> {"janitha.com","dilsham.com" };
         }
+
+        public override void Connect(string host)
+        {
+            if (restrictedSites.Contains(host))
+            {
+                throw new Exception($"Access Denied to {host}. This site is restricted.");
+            }
+            else
+            {
+                realInternetAccess.Connect(host);
+            }
+        }
     }
 }
