@@ -11,7 +11,7 @@ public class Client
         try
         {
             internet.Connect("Jani.com");
-            internet.Connect("jani.com");
+            internet.Connect("janitha.com");
         }
         catch (Exception e) 
         { 
