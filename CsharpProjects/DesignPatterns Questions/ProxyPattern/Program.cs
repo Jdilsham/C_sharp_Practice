@@ -5,7 +5,7 @@ public class Client
 {
     static void Main(string[] args)
     {
-        InternertAccess internert = new InternertAccess();
+        InternertAccess internert = new ProxyInternetAccess();
 
         try
         {
