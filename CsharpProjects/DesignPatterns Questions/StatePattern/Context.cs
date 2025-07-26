@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace StatePattern
 {
-    internal class Context
+    public class MobilePhone
     {
+        private IAlertState alertState;
+
+        public MobilePhone(IAlertState initialState) 
+        { 
+            alertState = initialState;
+        }
+
+        public void setState(IAlertState state)
+        {
+            alertState = state;
+        }
+
+        public void Alert()
+        {
+            alertState.Alert();
+        }
     }
 }
