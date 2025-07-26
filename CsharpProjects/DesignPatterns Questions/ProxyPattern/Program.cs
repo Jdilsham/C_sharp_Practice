@@ -14,7 +14,7 @@ public class Client
         }
         catch(Exception e)
         {
-            Console.WriteLine(e.ToString());
+            Console.WriteLine(e.Message);
         }
     }
 }
