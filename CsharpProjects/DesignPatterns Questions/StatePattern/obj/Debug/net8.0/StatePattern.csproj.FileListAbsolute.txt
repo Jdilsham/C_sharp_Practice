@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\bin\Debug\net8.0\StatePattern.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\bin\Debug\net8.0\StatePattern.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\bin\Debug\net8.0\StatePattern.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\bin\Debug\net8.0\StatePattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\bin\Debug\net8.0\StatePattern.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\StatePattern.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\StatePattern.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\StatePattern.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\StatePattern.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\StatePattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\refint\StatePattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\StatePattern.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\StatePattern.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\StatePattern\obj\Debug\net8.0\ref\StatePattern.dll
