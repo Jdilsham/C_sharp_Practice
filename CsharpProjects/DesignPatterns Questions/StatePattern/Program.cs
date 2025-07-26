@@ -8,5 +8,13 @@ public class Client
         MobilePhone phone = new MobilePhone(new SilentState());
 
         phone.Alert();
+
+        phone.setState(new VibrationState());
+
+        phone.Alert();
+
+        phone.setState(new SilentState());
+
+        phone.Alert();
     }
 }
