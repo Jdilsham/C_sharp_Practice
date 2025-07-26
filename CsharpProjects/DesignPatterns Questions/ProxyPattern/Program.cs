@@ -13,5 +13,9 @@ public class Client
             internet.Connect("Jani.com");
             internet.Connect("jani.com");
         }
+        catch (Exception e) 
+        { 
+            Console.WriteLine(e.Message);    
+        }
     }
 }
