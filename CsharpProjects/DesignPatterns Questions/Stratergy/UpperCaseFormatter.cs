@@ -8,10 +8,9 @@ namespace Stratergy
 {
     public class UpperCaseFormatter : ITextFormatter
     {
-        public string TexFormat(string txt)
+        public string TxtFormat(string txt)
         {
             return txt.ToUpper();
-        } 
-            
+        }
     }
 }
