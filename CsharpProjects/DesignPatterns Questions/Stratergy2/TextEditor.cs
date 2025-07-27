@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace Stratergy2
 {
-    internal class TextEditor
+    public class TextEditor
     {
+        private ITextFormatter formatter;
+
+        public void SetFormatter(ITextFormatter formatter)
+        {
+            this.formatter = formatter;
+        }
+
+        public void PublishText(string text)
+        {
+            if (formatter != null)
+            {
+                string result = formatter.txtFormat(text);
+                Console.WriteLine(result);
+            }
+            else
+            {
+                Console.WriteLine("No Formatter Set!");
+            }
+        }
     }
 }
