@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Stratergy2
 {
-    internal interface ITextFormatter
+    public interface ITextFormatter
     {
+        string txtFormat(string txt);
     }
 }
