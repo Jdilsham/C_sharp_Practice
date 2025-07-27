@@ -17,7 +17,7 @@ namespace Stratergy
 
         public void PublishText(string text)
         {
-            if (_textFormatter != null) 
+            if (_textFormatter != null)
             {
                 string result = _textFormatter.TxtFormat(text);
                 Console.WriteLine("Formatted Text: " + result);
@@ -26,6 +26,6 @@ namespace Stratergy
             {
                 Console.WriteLine("No Formatter Set");
             }
-
+        }
     }
 }
