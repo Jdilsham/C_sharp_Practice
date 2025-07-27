@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\bin\Debug\net8.0\Stratergy2.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\bin\Debug\net8.0\Stratergy2.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\bin\Debug\net8.0\Stratergy2.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\bin\Debug\net8.0\Stratergy2.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\bin\Debug\net8.0\Stratergy2.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\Stratergy2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\Stratergy2.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\Stratergy2.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\Stratergy2.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\Stratergy2.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\Stratergy2.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\refint\Stratergy2.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\Stratergy2.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\Stratergy2.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\Stratergy2\obj\Debug\net8.0\ref\Stratergy2.dll

@@ -9,7 +9,11 @@ class Program
 
         string input = Console.ReadLine();
 
+        editor.SetFormatter(new UpperCase());
+        editor.PublishText(input);
 
+        editor.SetFormatter(new LowerCase());
+        editor.PublishText(input);
     }
 
 }
