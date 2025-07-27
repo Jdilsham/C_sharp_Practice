@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Stratergy
+namespace Stratergy;
+
+public interface ITextFormatter
 {
-    public interface ITextFormatter
-    {
-        string TxtFormat(string txt);
-    }
+    string TxtFormat(string txt);
 }

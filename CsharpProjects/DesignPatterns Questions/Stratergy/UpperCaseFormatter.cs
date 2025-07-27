@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Stratergy
 {
-    internal class UpperCaseFormatter
+    public class UpperCaseFormatter : ITextFormatter
     {
+        public string TexFormat(string txt)
+        {
+            return txt.ToUpper();
+        } 
+            
     }
 }
