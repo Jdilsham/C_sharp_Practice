@@ -10,7 +10,7 @@ namespace Singaleton
     {
         private static DatabaseConnection instance;
 
-        public DatabaseConnection()
+        private DatabaseConnection()
         {
             Console.WriteLine("Databasae Connection Established...");
         } 
