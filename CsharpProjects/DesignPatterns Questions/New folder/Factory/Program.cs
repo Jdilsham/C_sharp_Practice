@@ -8,6 +8,8 @@ public class program
         ShapeFactory f1 = new ShapeFactory();
 
         Console.WriteLine("Circle, Rectangle or Square ?");
+        string type = Console.ReadLine();
 
+        
     }
 }
