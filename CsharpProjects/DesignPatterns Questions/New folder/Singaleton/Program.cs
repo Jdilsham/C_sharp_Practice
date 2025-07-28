@@ -15,7 +15,7 @@ public class program
         else
         {
             Console.WriteLine("Differnt Connection");
-        }
+        
 
         d1.Connect();
         d2.Disconnect();

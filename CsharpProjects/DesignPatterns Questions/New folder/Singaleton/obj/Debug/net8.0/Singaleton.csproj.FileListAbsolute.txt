@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\bin\Debug\net8.0\Singaleton.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\bin\Debug\net8.0\Singaleton.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\bin\Debug\net8.0\Singaleton.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\bin\Debug\net8.0\Singaleton.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\bin\Debug\net8.0\Singaleton.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\Singaleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\Singaleton.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\Singaleton.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\Singaleton.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\Singaleton.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\Singaleton.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\refint\Singaleton.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\Singaleton.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\Singaleton.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Singaleton\obj\Debug\net8.0\ref\Singaleton.dll
