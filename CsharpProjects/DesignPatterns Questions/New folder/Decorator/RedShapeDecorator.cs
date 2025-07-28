@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Decorator
 {
-    internal class RedShapeDecorator
+    internal class RedShapeDecorator : ShapeDecorator
     {
+        public RedShapeDecorator(IShape shape) : base(shape) { }
+
+        public override void Draw()
+        {
+            _shape.Draw();
+            SetShapeBorder();
+        }
+
+        private void SetShapeBorder()
+        {
+            Console.WriteLine("Setting Red Border...");
+        }
     }
 }
