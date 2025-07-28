@@ -10,6 +10,14 @@ public class program
         Console.WriteLine("Circle, Rectangle or Square ?");
         string type = Console.ReadLine();
 
-        
+        IShape shape = f1.GetShape(type);
+
+        if (shape != null)
+        {
+            shape.Draw();
+        }
+        else{
+            Console.WriteLine("Invalid");
+        }
     }
 }
