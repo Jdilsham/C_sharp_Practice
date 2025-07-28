@@ -13,6 +13,7 @@ namespace Decorator
         public override void Draw()
         {
             _shape.Draw();
+            SetGreenBorder();
         }
 
         private void SetGreenBorder()

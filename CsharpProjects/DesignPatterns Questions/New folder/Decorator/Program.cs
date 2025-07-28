@@ -8,6 +8,11 @@ public class program
         IShape circle = new Circle();
         IShape rect = new Rectangle();
 
+        IShape redCircle = new RedShapeDecorator(circle);
+        IShape greenRect = new GreenShapeDecorator(rect);
 
+        redCircle.Draw();
+
+        greenRect.Draw();
     }
 }
