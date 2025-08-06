@@ -11,7 +11,7 @@ public class Program
         if(ReferenceEquals(d1, d2))
         {
             Console.WriteLine("Both Instance are the same instance!");
-        
+        }
         else
         {
             Console.WriteLine("Instance are different!");
