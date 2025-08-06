@@ -18,7 +18,7 @@ public class Program
         }
 
         d1.Connect();
-        d2.Disconnect();
+        d2.Disconnect()
     }
 
 }
