@@ -9,5 +9,12 @@ public class Program
         Shape r = new Rectangle();
 
         c.Draw();
+        r.Draw();
+
+        Shape c1 = new RedShapeDecorator(c);
+        Shape r1 = new RedShapeDecorator(r);
+
+        c1.Draw();
+        r1.Draw();
     }
 }
