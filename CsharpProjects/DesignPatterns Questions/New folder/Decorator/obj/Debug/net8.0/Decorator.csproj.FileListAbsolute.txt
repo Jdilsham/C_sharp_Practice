@@ -1,0 +1,5 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\Decorator\obj\Debug\net8.0\Decorator.sourcelink.json
