@@ -20,4 +20,5 @@ public class Program
         {
             Console.WriteLine("Invalid");
         }
+    }
 }
