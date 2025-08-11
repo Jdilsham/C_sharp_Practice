@@ -21,7 +21,7 @@ namespace ProxyPattern
         {
             if (restrictedSites.Contains(host))
             {
-                throw new Exception($"Access Denied =o {host}");
+                throw new Exception($"Access Denied to {host}");
             }
             else
             {
