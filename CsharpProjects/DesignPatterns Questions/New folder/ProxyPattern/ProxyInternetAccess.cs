@@ -14,14 +14,14 @@ namespace ProxyPattern
         public ProxyInternetAccess()
         {
             realinternetaccess = new RealInternetAcccess();
-            restrictedSites = new List<string> {"Janitha.com", "dilsham.com" };
+            restrictedSites = new List<string> {"janitha.com", "dilsham.com" };
         }
 
         public override void Connect(string host)
         {
             if (restrictedSites.Contains(host))
             {
-                throw new Exception($"Access Denied too {host}");
+                throw new Exception($"Access Denied =o {host}");
             }
             else
             {
