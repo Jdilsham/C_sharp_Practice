@@ -8,5 +8,6 @@ namespace ProxyPattern
 {
     public abstract class InternetAccess
     {
+        public abstract void Connect(string host);
     }
 }
