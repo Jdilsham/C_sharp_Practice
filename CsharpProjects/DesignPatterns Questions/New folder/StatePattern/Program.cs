@@ -12,5 +12,9 @@ public class program
         phone.setState(new Silent());
 
         phone.Alert();
+
+        phone.setState(new Vibrate());
+
+        phone.Alert();
     }
 }
