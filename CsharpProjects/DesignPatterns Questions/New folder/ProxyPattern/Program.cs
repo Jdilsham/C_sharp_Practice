@@ -1,1 +1,3 @@
-﻿
+﻿using System;
+using ProxyPattern;
+

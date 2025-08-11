@@ -6,7 +6,27 @@ using System.Threading.Tasks;
 
 namespace ProxyPattern
 {
-    internal class ProxyInternetAccess
+    public class ProxyInternetAccess : InternetAccess
     {
+        private RealInternetAcccess realinternetaccess;
+        private List<string> restrictedSites;
+
+        public ProxyInternetAccess()
+        {
+            realinternetaccess = new RealInternetAcccess();
+            restrictedSites = new List<string> {"Janitha.com", "dilsham.com" };
+        }
+
+        public override void Connect(string host)
+        {
+            if (restrictedSites.Contains(host))
+            {
+                throw new Exception($"Access Denied too {host}");
+            }
+            else
+            {
+                realinternetaccess.Connect(host);
+            }
+        }
     }
 }
