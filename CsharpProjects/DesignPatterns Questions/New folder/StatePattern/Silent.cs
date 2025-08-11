@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace StatePattern
 {
-    public class Vibrate : IAlertState
+    internal class Silent : IAlertState
     {
         public void Alert()
         {
-            Console.WriteLine("Vibrate state");
+            Console.WriteLine("Silent state");
         }
     }
 }
