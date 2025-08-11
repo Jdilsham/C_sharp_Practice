@@ -10,7 +10,8 @@ public class Program
         try
         {
             internet.Connect("janitha.com");
-            internet.Connect("jani.com");
+            internet.Connect("dinu.com");
+
         }catch (Exception e)
         {
             Console.WriteLine(e.Message);
