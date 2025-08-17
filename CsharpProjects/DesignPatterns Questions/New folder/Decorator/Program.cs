@@ -10,5 +10,11 @@ class program
 
         Circle.Draw();
         Rect.Draw();
+
+        Shape redCircle = new RedShapeDecorator(Circle);
+        redCircle.Draw();
+
+        Shape redRect = new RedShapeDecorator(Rect);
+        redRect.Draw();
     }
 }

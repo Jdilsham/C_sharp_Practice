@@ -13,6 +13,7 @@ namespace Decorator
         public override void Draw()
         {
             base.Draw();
+            SetRedBorder();
         }
 
         private void SetRedBorder()
