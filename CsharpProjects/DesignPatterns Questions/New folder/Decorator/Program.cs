@@ -9,5 +9,6 @@ class program
         Shape Rect = new Rectangle();
 
         Circle.Draw();
+        Rect.Draw();
     }
 }
