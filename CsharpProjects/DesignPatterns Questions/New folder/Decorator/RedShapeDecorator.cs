@@ -10,6 +10,14 @@ namespace Decorator
     {
         public RedShapeDecorator(Shape shape) : base(shape) { }
 
+        public override void Draw()
+        {
+            base.Draw();
+        }
 
+        private void SetRedBorder()
+        {
+            Console.WriteLine("Setting Red Border...");
+        }
     }
 }
