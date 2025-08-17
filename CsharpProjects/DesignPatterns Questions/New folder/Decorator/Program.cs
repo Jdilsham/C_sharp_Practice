@@ -8,6 +8,6 @@ class program
         Shape Circle = new Circle();
         Shape Rect = new Rectangle();
 
-        Circle.Draw()
+        Circle.Draw();
     }
 }
