@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory
 {
-    internal class Factory
+    public class FactoryShape
     {
         public Shape getShape(string shape)
         {
@@ -22,9 +22,9 @@ namespace Factory
                 return new Circle();
             }
 
-            if(shapeUpper == "Rect")
+            if(shapeUpper == "RECTANGLE")
             {
-                return new Rect();
+                return new Rectangle();
             }
 
             if(shapeUpper == "SQUARE")

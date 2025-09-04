@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory
 {
-    internal class Rect : Shape
+    internal class Rectangle : Shape
     {
         public void Draw()
         {

@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Factory factory = new Factory();
+        FactoryShape factory = new FactoryShape();
 
         Console.WriteLine("What Shape do you want? ");
         string shapetype = Console.ReadLine();
