@@ -29,7 +29,7 @@ namespace Factory
 
             if(shapeUpper == "SQUARE")
             {
-                return new Shape();
+                return new Square();
             }
 
             return null;

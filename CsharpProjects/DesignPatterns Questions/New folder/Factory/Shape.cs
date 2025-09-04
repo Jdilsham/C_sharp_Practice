@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory
 {
-    public class Shape
+    internal interface Shape
     {
         void Draw();
     }
