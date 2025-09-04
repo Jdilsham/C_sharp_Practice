@@ -6,18 +6,29 @@ using System.Threading.Tasks;
 
 namespace Singleton
 {
-    internal class DBConnecrion
+    internal class DBConnection
     {
-        private static DBConnecrion instance;
+        private static DBConnection instance;
 
-        private DBConnecrion() { }
+        private DBConnection() { }
 
-        public static DBConnecrion getInstance()
+        public static DBConnection getInstance()
         {
-            get { 
-                
-            
-            }
+             if(instance == null)
+             {
+                instance = new DBConnection();
+             }
+
+             return instance;
+        }
+        
+
+        public void Connect() {
+            Console.WriteLine("Database Connected");
+        }
+
+        public void Disconnect() {
+            Console.WriteLine("Database Disconnected");
         }
     }
 }
