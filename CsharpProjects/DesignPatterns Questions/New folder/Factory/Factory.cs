@@ -8,5 +8,9 @@ namespace Factory
 {
     internal class Factory
     {
+        public Shape getShape()
+        {
+
+        }
     }
 }
