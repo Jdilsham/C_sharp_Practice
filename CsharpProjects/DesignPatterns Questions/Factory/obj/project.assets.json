@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\Factory\\Factory.csproj",
+      "projectUniqueName": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\Factory\\Factory.csproj",
       "projectName": "Factory",
-      "projectPath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\Factory\\Factory.csproj",
+      "projectPath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\Factory\\Factory.csproj",
       "packagesPath": "C:\\Users\\JANITHA DILSHAM\\.nuget\\packages\\",
-      "outputPath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\Factory\\obj\\",
+      "outputPath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\Factory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
