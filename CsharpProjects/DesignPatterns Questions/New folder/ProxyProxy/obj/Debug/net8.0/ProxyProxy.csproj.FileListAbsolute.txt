@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\bin\Debug\net8.0\ProxyProxy.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\bin\Debug\net8.0\ProxyProxy.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\bin\Debug\net8.0\ProxyProxy.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\bin\Debug\net8.0\ProxyProxy.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\bin\Debug\net8.0\ProxyProxy.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ProxyProxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ProxyProxy.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ProxyProxy.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ProxyProxy.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ProxyProxy.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ProxyProxy.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\refint\ProxyProxy.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ProxyProxy.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ProxyProxy.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\ProxyProxy\obj\Debug\net8.0\ref\ProxyProxy.dll

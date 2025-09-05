@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProxyProxy
 {
-    internal class Real
+    internal class Real : InternetAccess
     {
+        public void Connect(string host)
+        {
+            Console.WriteLine($"Connected {host}");
+        }
     }
 }
