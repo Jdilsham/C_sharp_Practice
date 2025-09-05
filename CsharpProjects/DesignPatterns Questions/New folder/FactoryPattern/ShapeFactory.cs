@@ -17,12 +17,12 @@ namespace FactoryPattern
 
             string shapeUpper = shapeType.ToUpper();
 
-            if(shapeUpper == "Circle")
+            if(shapeUpper == "CIRCLE")
             {
                 return new Circle();
             }
 
-            if(shapeUpper == "RECTANFLE")
+            if(shapeUpper == "RECTANGLE")
             {
                 return new Rectangle();
             }
