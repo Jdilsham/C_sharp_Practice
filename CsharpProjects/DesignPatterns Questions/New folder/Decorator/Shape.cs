@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory
+namespace Decorator
 {
-    public class Shape
+    public interface Shape
     {
         void Draw();
     }

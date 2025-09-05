@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory
+namespace ProxyPattern
 {
-    public class Shape
+    public abstract class InternetAccess
     {
-        void Draw();
+        public abstract void Connect(string host);
     }
 }

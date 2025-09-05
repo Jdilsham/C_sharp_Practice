@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory
+namespace StatePattern
 {
-    public class Shape
+    public interface IAlertState
     {
-        void Draw();
+        void Alert();
     }
 }
