@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\bin\Debug\net8.0\FactoryVehicle.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\bin\Debug\net8.0\FactoryVehicle.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\bin\Debug\net8.0\FactoryVehicle.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\bin\Debug\net8.0\FactoryVehicle.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\bin\Debug\net8.0\FactoryVehicle.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\FactoryVehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\FactoryVehicle.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\FactoryVehicle.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\FactoryVehicle.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\FactoryVehicle.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\FactoryVehicle.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\refint\FactoryVehicle.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\FactoryVehicle.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\FactoryVehicle.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\FactoryVehicle\obj\Debug\net8.0\ref\FactoryVehicle.dll
