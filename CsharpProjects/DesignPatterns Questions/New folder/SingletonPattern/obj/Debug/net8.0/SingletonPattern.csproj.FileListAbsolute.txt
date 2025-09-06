@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\bin\Debug\net8.0\SingletonPattern.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\bin\Debug\net8.0\SingletonPattern.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\bin\Debug\net8.0\SingletonPattern.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\bin\Debug\net8.0\SingletonPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\bin\Debug\net8.0\SingletonPattern.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\SingletonPattern.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\SingletonPattern.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\SingletonPattern.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\SingletonPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\refint\SingletonPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\SingletonPattern.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\SingletonPattern.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\SingletonPattern\obj\Debug\net8.0\ref\SingletonPattern.dll
