@@ -10,7 +10,7 @@ namespace FactoryPattern
     {
         public void Draw()
         {
-            Console.WriteLine("Drawing Square..."):
+            Console.WriteLine("Drawing Square...");
         }
     }
 }
