@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\Decorator\\Decorator.csproj": {}
+    "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\DecoratorPattern\\DecoratorPattern.csproj": {}
   },
   "projects": {
-    "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\Decorator\\Decorator.csproj": {
+    "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\DecoratorPattern\\DecoratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\Decorator\\Decorator.csproj",
-        "projectName": "Decorator",
-        "projectPath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\Decorator\\Decorator.csproj",
+        "projectUniqueName": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectName": "DecoratorPattern",
+        "projectPath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\DecoratorPattern\\DecoratorPattern.csproj",
         "packagesPath": "C:\\Users\\JANITHA DILSHAM\\.nuget\\packages\\",
-        "outputPath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\Decorator\\obj\\",
+        "outputPath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\DecoratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
