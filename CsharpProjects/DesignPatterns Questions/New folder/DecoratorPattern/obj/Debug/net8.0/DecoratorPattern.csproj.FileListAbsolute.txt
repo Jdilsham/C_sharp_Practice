@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\refint\DecoratorPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\DecoratorPattern\obj\Debug\net8.0\ref\DecoratorPattern.dll

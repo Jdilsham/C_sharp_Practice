@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using DecoratorPattern;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Shape c1 = new Circle();
+        Shape r1 = new Rectangle();
+
+        c1.Draw();
+        r1.Draw();
+    }
+}
