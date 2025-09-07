@@ -10,5 +10,11 @@ public class Program
 
         c1.Draw();
         r1.Draw();
+
+        Shape redc1 = new RedShapeDecorator(c1);
+        Shape redr1 = new RedShapeDecorator(r1);
+
+        redc1.Draw();
+        redr1.Draw();
     }
 }
