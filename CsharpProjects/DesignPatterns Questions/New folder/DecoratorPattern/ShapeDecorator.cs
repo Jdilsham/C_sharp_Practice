@@ -9,7 +9,7 @@ namespace DecoratorPattern
     internal class ShapeDecorator : Shape
     {
         protected Shape _shape;
-
+        
         public ShapeDecorator(Shape shape)
         {
             _shape = shape;

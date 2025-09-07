@@ -7,18 +7,9 @@ using System.Threading.Tasks;
 namespace DecoratorPattern
 {
     internal class RedShapeDecorator : ShapeDecorator
-    {
+    { 
         public RedShapeDecorator(Shape shape) : base(shape) { }
 
-        public override void Draw()
-        {
-            base.Draw();
-            SetRedBorder();
-        }
 
-        private void SetRedBorder()
-        {
-            Console.WriteLine("Red Shape Border...");
-        }
     }
 }
