@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\bin\Debug\net8.0\StratergyPattern.exe
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\bin\Debug\net8.0\StratergyPattern.deps.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\bin\Debug\net8.0\StratergyPattern.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\bin\Debug\net8.0\StratergyPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\bin\Debug\net8.0\StratergyPattern.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\StratergyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\StratergyPattern.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\StratergyPattern.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\StratergyPattern.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\StratergyPattern.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\StratergyPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\refint\StratergyPattern.dll
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\StratergyPattern.pdb
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\StratergyPattern.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\DesignPatterns Questions\New folder\StratergyPattern\obj\Debug\net8.0\ref\StratergyPattern.dll
