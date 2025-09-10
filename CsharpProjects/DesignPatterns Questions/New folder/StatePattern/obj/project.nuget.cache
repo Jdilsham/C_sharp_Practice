@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bPw6dV3jxVM=",
+  "dgSpecHash": "ZQoiGDYoV7o=",
   "success": true,
   "projectFilePath": "D:\\C_sharp_Practice\\CsharpProjects\\DesignPatterns Questions\\New folder\\StatePattern\\StatePattern.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JANITHA DILSHAM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\JANITHA DILSHAM\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\JANITHA DILSHAM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\JANITHA DILSHAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
