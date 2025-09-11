@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace FactoryPattern
 {
     internal class Circle : Shape
-    
+    {
         public void Draw()
         {
             Console.WriteLine("Drawing Circle...");
