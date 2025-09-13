@@ -1,0 +1,17 @@
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\bin\Debug\net8.0-windows\Ass4Q4.exe
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\bin\Debug\net8.0-windows\Ass4Q4.deps.json
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\bin\Debug\net8.0-windows\Ass4Q4.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\bin\Debug\net8.0-windows\Ass4Q4.dll
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\bin\Debug\net8.0-windows\Ass4Q4.pdb
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.Form1.resources
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.csproj.GenerateResource.cache
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.dll
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\refint\Ass4Q4.dll
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.pdb
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\Ass4Q4.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\Ass4Q4\obj\Debug\net8.0-windows\ref\Ass4Q4.dll
