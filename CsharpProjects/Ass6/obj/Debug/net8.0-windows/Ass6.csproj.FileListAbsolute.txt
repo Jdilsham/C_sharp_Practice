@@ -1,0 +1,17 @@
+D:\C_sharp_Practice\CsharpProjects\Ass6\bin\Debug\net8.0-windows\Ass6.exe
+D:\C_sharp_Practice\CsharpProjects\Ass6\bin\Debug\net8.0-windows\Ass6.deps.json
+D:\C_sharp_Practice\CsharpProjects\Ass6\bin\Debug\net8.0-windows\Ass6.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\Ass6\bin\Debug\net8.0-windows\Ass6.dll
+D:\C_sharp_Practice\CsharpProjects\Ass6\bin\Debug\net8.0-windows\Ass6.pdb
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.Form1.resources
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.csproj.GenerateResource.cache
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.dll
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\refint\Ass6.dll
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.pdb
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\Ass6.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\Ass6\obj\Debug\net8.0-windows\ref\Ass6.dll
