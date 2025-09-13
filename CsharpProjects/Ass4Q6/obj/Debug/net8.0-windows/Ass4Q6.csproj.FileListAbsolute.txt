@@ -1,0 +1,17 @@
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.Form1.resources
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.csproj.GenerateResource.cache
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\bin\Debug\net8.0-windows\Ass4Q6.exe
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\bin\Debug\net8.0-windows\Ass4Q6.deps.json
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\bin\Debug\net8.0-windows\Ass4Q6.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\bin\Debug\net8.0-windows\Ass4Q6.dll
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\bin\Debug\net8.0-windows\Ass4Q6.pdb
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.dll
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\refint\Ass4Q6.dll
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.pdb
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\Ass4Q6.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\Ass4Q6\obj\Debug\net8.0-windows\ref\Ass4Q6.dll
