@@ -1,0 +1,17 @@
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\bin\Debug\net8.0-windows\Ass5Q3.exe
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\bin\Debug\net8.0-windows\Ass5Q3.deps.json
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\bin\Debug\net8.0-windows\Ass5Q3.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\bin\Debug\net8.0-windows\Ass5Q3.dll
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\bin\Debug\net8.0-windows\Ass5Q3.pdb
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.Form1.resources
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.csproj.GenerateResource.cache
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.dll
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\refint\Ass5Q3.dll
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.pdb
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\Ass5Q3.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\Ass5Q3\obj\Debug\net8.0-windows\ref\Ass5Q3.dll
