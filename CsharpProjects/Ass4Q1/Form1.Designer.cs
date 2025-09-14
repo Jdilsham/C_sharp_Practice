@@ -70,7 +70,7 @@
             // button1
             // 
             button1.AccessibleName = "add";
-            button1.Location = new Point(262, 298);
+            button1.Location = new Point(262, 290);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 3;
@@ -81,21 +81,21 @@
             // textBox1
             // 
             textBox1.AccessibleName = "num1txt";
-            textBox1.Location = new Point(182, 110);
+            textBox1.Location = new Point(182, 115);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(155, 23);
             textBox1.TabIndex = 4;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(182, 180);
+            textBox2.Location = new Point(182, 174);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(155, 23);
             textBox2.TabIndex = 7;
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(182, 235);
+            textBox3.Location = new Point(182, 232);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(155, 23);
             textBox3.TabIndex = 8;
@@ -104,7 +104,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(487, 450);
+            ClientSize = new Size(474, 450);
             Controls.Add(textBox3);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -114,6 +114,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
