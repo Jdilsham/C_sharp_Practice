@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\State.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\State.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\State.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\State.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\State\bin\Debug\net8.0\State.exe
+D:\C_sharp_Practice\CsharpProjects\State\bin\Debug\net8.0\State.deps.json
+D:\C_sharp_Practice\CsharpProjects\State\bin\Debug\net8.0\State.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\State\bin\Debug\net8.0\State.dll
+D:\C_sharp_Practice\CsharpProjects\State\bin\Debug\net8.0\State.pdb
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\State.dll
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\refint\State.dll
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\State.pdb
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\State.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\State\obj\Debug\net8.0\ref\State.dll
