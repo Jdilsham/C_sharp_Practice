@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\Statergy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\Statergy.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\Statergy.AssemblyInfo.cs
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\Statergy.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\Statergy.sourcelink.json
+D:\C_sharp_Practice\CsharpProjects\Statergy\bin\Debug\net8.0\Statergy.exe
+D:\C_sharp_Practice\CsharpProjects\Statergy\bin\Debug\net8.0\Statergy.deps.json
+D:\C_sharp_Practice\CsharpProjects\Statergy\bin\Debug\net8.0\Statergy.runtimeconfig.json
+D:\C_sharp_Practice\CsharpProjects\Statergy\bin\Debug\net8.0\Statergy.dll
+D:\C_sharp_Practice\CsharpProjects\Statergy\bin\Debug\net8.0\Statergy.pdb
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\Statergy.dll
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\refint\Statergy.dll
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\Statergy.pdb
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\Statergy.genruntimeconfig.cache
+D:\C_sharp_Practice\CsharpProjects\Statergy\obj\Debug\net8.0\ref\Statergy.dll

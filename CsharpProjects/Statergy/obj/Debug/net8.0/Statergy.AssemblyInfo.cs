@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Statergy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a43f9b3c6b464b18d9506c24abb67cacec52e46b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dddf9d4a18f26852ab5e411d93cbb043c1264ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Statergy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Statergy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
