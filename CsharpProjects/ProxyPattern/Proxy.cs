@@ -12,7 +12,7 @@ namespace ProxyPattern
 
         List<string> list;
 
-        private Proxy()
+        public Proxy()
         {
             instance = new Real();
 

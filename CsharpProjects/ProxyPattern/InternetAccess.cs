@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProxyPattern
 {
-    internal interface InternetAccess
+    public interface InternetAccess
     {
         void Connect(string host);
     }
