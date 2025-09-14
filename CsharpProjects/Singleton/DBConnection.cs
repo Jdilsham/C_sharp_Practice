@@ -8,5 +8,24 @@ namespace Singleton
 {
     internal class DBConnection
     {
+        private static DBConnection instance;
+
+        private DBConnection() { }
+
+        public static DBConnection getInstance()
+        {
+            if(instance == null)
+            {
+                instance = new DBConnection();
+            }
+            return instance;
+        }
+
+        public void Connect()
+        {
+            Console.WriteLine("Connected");
+        }
+
+        public void Disconnect() { Console.WriteLine("Disconnected"); }
     }
 }
