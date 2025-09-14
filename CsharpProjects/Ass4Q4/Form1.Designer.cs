@@ -107,6 +107,7 @@
             groupBox2.TabIndex = 1;
             groupBox2.TabStop = false;
             groupBox2.Text = "Selected Services";
+            groupBox2.Enter += groupBox2_Enter;
             // 
             // listBox1
             // 
@@ -116,6 +117,7 @@
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(325, 229);
             listBox1.TabIndex = 0;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // label1
             // 
@@ -136,6 +138,7 @@
             Controls.Add(groupBox1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
