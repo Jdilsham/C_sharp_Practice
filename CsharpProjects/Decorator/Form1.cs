@@ -28,5 +28,12 @@ namespace Decorator
             form2.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Display display = new Display();
+            display.Show();
+            this.Hide();
+        }
     }
 }
