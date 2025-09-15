@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace DecoratorPractice
 {
-    internal class StandardRoom
+    internal interface StandardRoom : HottelBilling
     {
+        public double getCost()
+        {
+            return 15000.00;
+        }
+
+        public string Discription()
+        {
+            return "Standard";
+        }
     }
 }

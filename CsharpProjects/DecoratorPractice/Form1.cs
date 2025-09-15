@@ -16,5 +16,24 @@ namespace DecoratorPractice
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Add_Customer_Form form2 = new Add_Customer_Form();
+            form2.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DisplayCusomer displayCusomer = new DisplayCusomer();
+            displayCusomer.Show();
+            this.Hide();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

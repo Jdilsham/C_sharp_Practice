@@ -1,0 +1,14 @@
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\bin\Debug\DecoratorRight.exe.config
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\bin\Debug\DecoratorRight.exe
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\bin\Debug\DecoratorRight.pdb
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.csproj.AssemblyReference.cache
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.AddCusomerForm.resources
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.Properties.Resources.resources
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.csproj.GenerateResource.cache
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.exe
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.pdb
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.exe.config
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.Form1.resources
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.AddCustomer.resources
+D:\C_sharp_Practice\CsharpProjects\DecoratorRight\obj\Debug\DecoratorRight.Form2.resources

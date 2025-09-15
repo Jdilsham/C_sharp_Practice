@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{89847ACD-28D8-48F4-9F99-FEF9F176F057}</ProjectGuid>
+    <ProjectGuid>{4ABEBF91-96AE-4FC3-8D12-B46563EDBED2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>DecoratorPractice</RootNamespace>
-    <AssemblyName>DecoratorPractice</AssemblyName>
+    <RootNamespace>DecoratorRight</RootNamespace>
+    <AssemblyName>DecoratorRight</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,37 +46,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Add Customer Form.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Add Customer Form.Designer.cs">
-      <DependentUpon>Add Customer Form.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Airport.cs" />
+    <Compile Include="Bar.cs" />
+    <Compile Include="BaseDecorator.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="CustomerStore.cs" />
-    <Compile Include="DisplayCusomer.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="DisplayCusomer.Designer.cs">
-      <DependentUpon>DisplayCusomer.cs</DependentUpon>
-    </Compile>
+    <Compile Include="DeluxeRoom.cs" />
+    <Compile Include="Dining.cs" />
+    <Compile Include="DoubleRoom.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="HotelBilling.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Add Customer Form.resx">
-      <DependentUpon>Add Customer Form.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="DisplayCusomer.resx">
-      <DependentUpon>DisplayCusomer.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
+    <Compile Include="StandardRoom.cs" />
+    <Compile Include="Wellness.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

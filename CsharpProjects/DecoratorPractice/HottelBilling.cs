@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace DecoratorPractice
 {
-    internal class CustomerStore
+    internal interface HottelBilling
     {
-        public static List<Customer> Customers = new List<Customer>();
+        double getCost();
+        string Discription();
     }
 }

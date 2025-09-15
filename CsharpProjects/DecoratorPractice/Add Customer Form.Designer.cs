@@ -106,6 +106,7 @@
             this.button1.TabIndex = 5;
             this.button1.Text = "Add Customer";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -116,6 +117,7 @@
             this.button2.TabIndex = 6;
             this.button2.Text = "Back to Home";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // textBox1
             // 
@@ -218,6 +220,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Add_Customer_Form";
             this.Text = "Add_Customer_Form";
+            this.Load += new System.EventHandler(this.Add_Customer_Form_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

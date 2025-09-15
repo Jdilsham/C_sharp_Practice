@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DecoratorPractice
+namespace DecoratorRight
 {
-    internal class CustomerStore
+    internal interface HotelBilling
     {
-        public static List<Customer> Customers = new List<Customer>();
+        string Discription();
+        double getCost();
     }
 }
