@@ -10,25 +10,25 @@ using System.Windows.Forms;
 
 namespace CoffeeShop
 {
-    public partial class Form1 : Form
+    public partial class Display : Form
     {
-        public Form1()
+        public Display()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            OrderForm orderForm = new OrderForm();
-            orderForm.Show();
+            Form1 form1 = new Form1();
+            form1.Show();
             this.Hide();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Display_Load(object sender, EventArgs e)
         {
-            Display display = new Display();
-            display.Show();
-            this.Hide();
+            dataGridView1.AutoGenerateColumns = true;
+            dataGridView1.DataSource = false;
+            dataGridView1.DataSource = OrderStore.orders;
         }
     }
 }

@@ -1,0 +1,13 @@
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.Display.resources
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.OrderForm.resources
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\C_sharp_Practice\CsharpProjects\CoffeeShop\obj\Debug\CoffeeShop.exe.config
