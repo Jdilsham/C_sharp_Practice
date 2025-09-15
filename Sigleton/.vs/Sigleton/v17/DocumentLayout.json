@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_sharp_Practice\\Sigleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF944F5-D31C-4207-8D6A-1BF35206C695}|Sigleton.csproj|d:\\c_sharp_practice\\sigleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF944F5-D31C-4207-8D6A-1BF35206C695}|Sigleton.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\Sigleton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\Sigleton\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:53:49.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

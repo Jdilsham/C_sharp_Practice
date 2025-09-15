@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\Proxy\bin\Debug\net8.0\Proxy.exe
+D:\C_sharp_Practice\Proxy\bin\Debug\net8.0\Proxy.deps.json
+D:\C_sharp_Practice\Proxy\bin\Debug\net8.0\Proxy.runtimeconfig.json
+D:\C_sharp_Practice\Proxy\bin\Debug\net8.0\Proxy.dll
+D:\C_sharp_Practice\Proxy\bin\Debug\net8.0\Proxy.pdb
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfo.cs
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\Proxy.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\Proxy.sourcelink.json
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\Proxy.dll
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\refint\Proxy.dll
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\Proxy.pdb
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\Proxy.genruntimeconfig.cache
+D:\C_sharp_Practice\Proxy\obj\Debug\net8.0\ref\Proxy.dll

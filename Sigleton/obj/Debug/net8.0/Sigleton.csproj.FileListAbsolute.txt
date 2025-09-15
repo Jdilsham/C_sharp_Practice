@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\Sigleton\bin\Debug\net8.0\Sigleton.exe
+D:\C_sharp_Practice\Sigleton\bin\Debug\net8.0\Sigleton.deps.json
+D:\C_sharp_Practice\Sigleton\bin\Debug\net8.0\Sigleton.runtimeconfig.json
+D:\C_sharp_Practice\Sigleton\bin\Debug\net8.0\Sigleton.dll
+D:\C_sharp_Practice\Sigleton\bin\Debug\net8.0\Sigleton.pdb
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\Sigleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\Sigleton.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\Sigleton.AssemblyInfo.cs
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\Sigleton.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\Sigleton.sourcelink.json
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\Sigleton.dll
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\refint\Sigleton.dll
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\Sigleton.pdb
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\Sigleton.genruntimeconfig.cache
+D:\C_sharp_Practice\Sigleton\obj\Debug\net8.0\ref\Sigleton.dll

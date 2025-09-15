@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_sharp_Practice\\SStatergy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|d:\\c_sharp_practice\\sstatergy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|d:\\c_sharp_practice\\sstatergy\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|solutionrelative:texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|d:\\c_sharp_practice\\sstatergy\\lowercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|solutionrelative:lowercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|d:\\c_sharp_practice\\sstatergy\\uppercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|solutionrelative:uppercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|d:\\c_sharp_practice\\sstatergy\\itextformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8AD74E-E1A2-4007-89C7-CBC03DE182C7}|SStatergy.csproj|solutionrelative:itextformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\SStatergy\\TextEditor.cs",
+              "RelativeDocumentMoniker": "TextEditor.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\SStatergy\\TextEditor.cs",
+              "RelativeToolTip": "TextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:32:03.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LowerCase.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\SStatergy\\LowerCase.cs",
+              "RelativeDocumentMoniker": "LowerCase.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\SStatergy\\LowerCase.cs",
+              "RelativeToolTip": "LowerCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:31:06.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpperCase.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\SStatergy\\UpperCase.cs",
+              "RelativeDocumentMoniker": "UpperCase.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\SStatergy\\UpperCase.cs",
+              "RelativeToolTip": "UpperCase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:29:59.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITextFormatter.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\SStatergy\\ITextFormatter.cs",
+              "RelativeDocumentMoniker": "ITextFormatter.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\SStatergy\\ITextFormatter.cs",
+              "RelativeToolTip": "ITextFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:29:41.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\SStatergy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\SStatergy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:29:19.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

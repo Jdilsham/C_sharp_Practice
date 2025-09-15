@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_sharp_Practice\\Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|d:\\c_sharp_practice\\factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|d:\\c_sharp_practice\\factory\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|solutionrelative:shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|d:\\c_sharp_practice\\factory\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|d:\\c_sharp_practice\\factory\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|d:\\c_sharp_practice\\factory\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D620-7360-4A5C-AE6D-7D91C0881103}|Factory.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeFactory.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\Factory\\ShapeFactory.cs",
+              "RelativeDocumentMoniker": "ShapeFactory.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\Factory\\ShapeFactory.cs",
+              "RelativeToolTip": "ShapeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:07:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\Factory\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\Factory\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:06:33.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\Factory\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\Factory\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:05:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\Factory\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\Factory\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:05:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_sharp_Practice\\Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C_sharp_Practice\\Factory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T19:04:56.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

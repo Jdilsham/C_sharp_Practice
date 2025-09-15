@@ -1,0 +1,15 @@
+D:\C_sharp_Practice\SStatergy\bin\Debug\net8.0\SStatergy.exe
+D:\C_sharp_Practice\SStatergy\bin\Debug\net8.0\SStatergy.deps.json
+D:\C_sharp_Practice\SStatergy\bin\Debug\net8.0\SStatergy.runtimeconfig.json
+D:\C_sharp_Practice\SStatergy\bin\Debug\net8.0\SStatergy.dll
+D:\C_sharp_Practice\SStatergy\bin\Debug\net8.0\SStatergy.pdb
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\SStatergy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\SStatergy.AssemblyInfoInputs.cache
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\SStatergy.AssemblyInfo.cs
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\SStatergy.csproj.CoreCompileInputs.cache
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\SStatergy.sourcelink.json
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\SStatergy.dll
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\refint\SStatergy.dll
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\SStatergy.pdb
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\SStatergy.genruntimeconfig.cache
+D:\C_sharp_Practice\SStatergy\obj\Debug\net8.0\ref\SStatergy.dll
